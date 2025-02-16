@@ -2,4 +2,4 @@
 
 # EDUCATION-Site
 
-Build a simple educational page using HTML & CSS
+Build a simple educational page using HTML, CSS & JAVASCRIPT
